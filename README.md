@@ -1,18 +1,18 @@
-# 🌍 COVID-19 Global Impact Analysis (Tableau Dashboard)
+#  COVID-19 Global Impact Analysis (Tableau Dashboard)
 
 This project explores the global impact of COVID-19 using data analysis and visualization techniques.  
 The dataset was cleaned in Python (Pandas) and visualized in Tableau to highlight the countries most and least affected by the pandemic.
 
 ---
 
-## 📊 Objectives
+##  Objectives
 - Identify the countries most affected by COVID-19 (highest confirmed cases, deaths, and recoveries)
 - Compare countries with the least number of cases
 - Visualize global patterns of infection and recovery
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 Performed using **Python (Pandas)**:
 - Removed missing or duplicated records
 - Converted dates to proper datetime format
@@ -62,4 +62,4 @@ Created multiple dashboards to display:
 ---
 
  *Created by [Phemelo Tebeila]*  
-📧 [tebeilaphemelo@gmail.com]
+[tebeilaphemelo@gmail.com]
